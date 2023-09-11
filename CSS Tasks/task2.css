@@ -1,0 +1,28 @@
+ul {
+    width: 300px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+ul li{
+    padding: 20px;
+    background-color:aqua;
+   
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.home{
+    background-color: rgb(236, 221, 5);
+   
+}
+.home a{
+    color:white;
+}
+
+.horizontal{
+    display: flex;
+    flex-direction: row;
+}

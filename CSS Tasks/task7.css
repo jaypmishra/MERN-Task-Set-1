@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(114, 22, 22);
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-size: 16px;
+}
+.form{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   
+}
+
+input{
+    border: none;
+    padding: 8px;
+    margin-left: 40px;
+}
+form{
+    background-color: rgb(196, 49, 49);
+    padding: 60px;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.about label{
+    margin-right: 10px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+   border: none;
+   font-size: 20px;
+}
+textarea{
+    color: black;
+}
